@@ -25,7 +25,7 @@
 
 <hr/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arichylton&show_icons=true&hide=contribs&theme=dracula&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arichylton&show_icons=true&hide=contribs&theme=dark&hide_border=true"/>
 
 <!--
 **arichylton/arichylton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
