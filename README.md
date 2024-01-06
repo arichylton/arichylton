@@ -21,7 +21,7 @@
 🌱 I’m currently learning 
 
  
-> [![My Skills](https://skillicons.dev/icons?i=ts,sass)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=ts,sass,next)](https://skillicons.dev)
 
 <hr/>
 
