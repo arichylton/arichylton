@@ -15,13 +15,13 @@
 
 
 
-> [![My Skills](https://skillicons.dev/icons?i=react,js,express,nodejs,html,css,python,mongodb)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=react,ts,js,express,nodejs,html,css,python,mongodb)](https://skillicons.dev)
 
 
 🌱 I’m currently learning 
 
  
-> [![My Skills](https://skillicons.dev/icons?i=ts,sass,next)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=java,sass,next)](https://skillicons.dev)
 
 <hr/>
 
