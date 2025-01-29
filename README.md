@@ -15,7 +15,7 @@
 
 
 
-> [![My Skills](https://skillicons.dev/icons?i=react,ts,js,golang,express,nodejs,html,css,python,mongodb)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=react,ts,js,golang,sql,express,nodejs,html,css,python,mongodb)](https://skillicons.dev)
 
 
 🌱 I’m currently learning 
